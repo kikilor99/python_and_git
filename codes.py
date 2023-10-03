@@ -8,7 +8,11 @@ def ismajor(age):
     else : 
         return False
 
+def square(x):
+    return x*x
 
+def somefunction():
+    print("Hello world!")
 
 
 def main():
